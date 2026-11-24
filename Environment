@@ -1,0 +1,5 @@
+MONGO_URI: mongodb+srv://arain:Pareesa123@cluster0.mgsm11q.mongodb.net/delightpk?retryWrites=true&w=majority
+JWT_SECRET: delight_secret_key_2026
+CLOUDINARY_CLOUD_NAME: drjyrsn4u
+CLOUDINARY_API_KEY: 511728934365816
+CLOUDINARY_API_SECRET: bFPM_zuIMaBBI03VnpiI5_UhUXw
